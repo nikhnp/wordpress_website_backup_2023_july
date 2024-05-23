@@ -1,0 +1,17 @@
+--e-global-color-primary: #EE1122;
+    --e-global-color-secondary: #E35D6A;
+    --e-global-color-text: #0D090A;
+    --e-global-color-accent: #00A9A5;
+    --e-global-color-3fe0c0a: #323133;
+    --e-global-color-fc139fa: #EAF2EF;
+    --e-global-color-d4e280d: #FFFFFF;
+    --e-global-color-e0f76d5: #DFFDFF;
+    --e-global-color-23a7a3a: #FB9F89;
+    --e-global-typography-primary-font-family: "Roboto";
+    --e-global-typography-primary-font-weight: 600;
+    --e-global-typography-secondary-font-family: "Roboto Slab";
+    --e-global-typography-secondary-font-weight: 400;
+    --e-global-typography-text-font-family: "Roboto";
+    --e-global-typography-text-font-weight: 400;
+    --e-global-typography-accent-font-family: "Kavoon";
+    --e-global-typography-accent-font-weight: 500;
